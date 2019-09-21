@@ -1,0 +1,10 @@
+C:\Users\hughe\source\repos\FileReader - dylan hughes\bin\Debug\FileReader - dylan hughes.exe.config
+C:\Users\hughe\source\repos\FileReader - dylan hughes\bin\Debug\FileReader - dylan hughes.exe
+C:\Users\hughe\source\repos\FileReader - dylan hughes\bin\Debug\FileReader - dylan hughes.pdb
+C:\Users\hughe\source\repos\FileReader - dylan hughes\obj\Debug\FileReader - dylan hughes.csprojAssemblyReference.cache
+C:\Users\hughe\source\repos\FileReader - dylan hughes\obj\Debug\FileReader___dylan_hughes.Form1.resources
+C:\Users\hughe\source\repos\FileReader - dylan hughes\obj\Debug\FileReader___dylan_hughes.Properties.Resources.resources
+C:\Users\hughe\source\repos\FileReader - dylan hughes\obj\Debug\FileReader - dylan hughes.csproj.GenerateResource.cache
+C:\Users\hughe\source\repos\FileReader - dylan hughes\obj\Debug\FileReader - dylan hughes.csproj.CoreCompileInputs.cache
+C:\Users\hughe\source\repos\FileReader - dylan hughes\obj\Debug\FileReader - dylan hughes.exe
+C:\Users\hughe\source\repos\FileReader - dylan hughes\obj\Debug\FileReader - dylan hughes.pdb

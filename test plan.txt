@@ -1,0 +1,3 @@
+test that file location error messages display
+test that file is located and displayed 
+test that file display format is line per line (not one single long line)
